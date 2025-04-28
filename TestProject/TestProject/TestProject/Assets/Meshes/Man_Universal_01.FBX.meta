@@ -1,0 +1,797 @@
+fileFormatVersion: 2
+guid: 92039c88a16d3404b91484f9aa9b7546
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Man_Universal_01
+  - first:
+      1: 100004
+    second: ManHead
+  - first:
+      1: 100006
+    second: ManLArmDigit11
+  - first:
+      1: 100008
+    second: ManLArmDigit12
+  - first:
+      1: 100010
+    second: ManLArmDigit13
+  - first:
+      1: 100012
+    second: ManLArmDigit21
+  - first:
+      1: 100014
+    second: ManLArmDigit22
+  - first:
+      1: 100016
+    second: ManLArmDigit23
+  - first:
+      1: 100018
+    second: ManLArmDigit31
+  - first:
+      1: 100020
+    second: ManLArmDigit32
+  - first:
+      1: 100022
+    second: ManLArmDigit33
+  - first:
+      1: 100024
+    second: ManLArmDigit41
+  - first:
+      1: 100026
+    second: ManLArmDigit42
+  - first:
+      1: 100028
+    second: ManLArmDigit43
+  - first:
+      1: 100030
+    second: ManLArmDigit51
+  - first:
+      1: 100032
+    second: ManLArmDigit52
+  - first:
+      1: 100034
+    second: ManLArmDigit53
+  - first:
+      1: 100036
+    second: ManLCalf
+  - first:
+      1: 100038
+    second: ManLCollarbone
+  - first:
+      1: 100040
+    second: ManLFoot
+  - first:
+      1: 100042
+    second: ManLForearm
+  - first:
+      1: 100044
+    second: ManLLegDigit11
+  - first:
+      1: 100046
+    second: ManLLegDigit12
+  - first:
+      1: 100048
+    second: ManLPalm
+  - first:
+      1: 100050
+    second: ManLThigh
+  - first:
+      1: 100052
+    second: ManLUpperarm
+  - first:
+      1: 100054
+    second: ManNeck1
+  - first:
+      1: 100056
+    second: ManNeck2
+  - first:
+      1: 100058
+    second: ManPelvis
+  - first:
+      1: 100060
+    second: ManRArmDigit11
+  - first:
+      1: 100062
+    second: ManRArmDigit12
+  - first:
+      1: 100064
+    second: ManRArmDigit13
+  - first:
+      1: 100066
+    second: ManRArmDigit21
+  - first:
+      1: 100068
+    second: ManRArmDigit22
+  - first:
+      1: 100070
+    second: ManRArmDigit23
+  - first:
+      1: 100072
+    second: ManRArmDigit31
+  - first:
+      1: 100074
+    second: ManRArmDigit32
+  - first:
+      1: 100076
+    second: ManRArmDigit33
+  - first:
+      1: 100078
+    second: ManRArmDigit41
+  - first:
+      1: 100080
+    second: ManRArmDigit42
+  - first:
+      1: 100082
+    second: ManRArmDigit43
+  - first:
+      1: 100084
+    second: ManRArmDigit51
+  - first:
+      1: 100086
+    second: ManRArmDigit52
+  - first:
+      1: 100088
+    second: ManRArmDigit53
+  - first:
+      1: 100090
+    second: ManRCalf
+  - first:
+      1: 100092
+    second: ManRCollarbone
+  - first:
+      1: 100094
+    second: ManRFoot
+  - first:
+      1: 100096
+    second: ManRForearm
+  - first:
+      1: 100098
+    second: ManRibcage
+  - first:
+      1: 100100
+    second: ManRLegDigit11
+  - first:
+      1: 100102
+    second: ManRLegDigit12
+  - first:
+      1: 100104
+    second: ManRPalm
+  - first:
+      1: 100106
+    second: ManRThigh
+  - first:
+      1: 100108
+    second: ManRUpperarm
+  - first:
+      1: 100110
+    second: ManSpine1
+  - first:
+      1: 100112
+    second: ManSpine2
+  - first:
+      1: 100114
+    second: ManSpine3
+  - first:
+      1: 100116
+    second: ManSpine4
+  - first:
+      1: 100118
+    second: ManSpine5
+  - first:
+      1: 100120
+    second: ManTransform
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Man_Universal_01
+  - first:
+      4: 400004
+    second: ManHead
+  - first:
+      4: 400006
+    second: ManLArmDigit11
+  - first:
+      4: 400008
+    second: ManLArmDigit12
+  - first:
+      4: 400010
+    second: ManLArmDigit13
+  - first:
+      4: 400012
+    second: ManLArmDigit21
+  - first:
+      4: 400014
+    second: ManLArmDigit22
+  - first:
+      4: 400016
+    second: ManLArmDigit23
+  - first:
+      4: 400018
+    second: ManLArmDigit31
+  - first:
+      4: 400020
+    second: ManLArmDigit32
+  - first:
+      4: 400022
+    second: ManLArmDigit33
+  - first:
+      4: 400024
+    second: ManLArmDigit41
+  - first:
+      4: 400026
+    second: ManLArmDigit42
+  - first:
+      4: 400028
+    second: ManLArmDigit43
+  - first:
+      4: 400030
+    second: ManLArmDigit51
+  - first:
+      4: 400032
+    second: ManLArmDigit52
+  - first:
+      4: 400034
+    second: ManLArmDigit53
+  - first:
+      4: 400036
+    second: ManLCalf
+  - first:
+      4: 400038
+    second: ManLCollarbone
+  - first:
+      4: 400040
+    second: ManLFoot
+  - first:
+      4: 400042
+    second: ManLForearm
+  - first:
+      4: 400044
+    second: ManLLegDigit11
+  - first:
+      4: 400046
+    second: ManLLegDigit12
+  - first:
+      4: 400048
+    second: ManLPalm
+  - first:
+      4: 400050
+    second: ManLThigh
+  - first:
+      4: 400052
+    second: ManLUpperarm
+  - first:
+      4: 400054
+    second: ManNeck1
+  - first:
+      4: 400056
+    second: ManNeck2
+  - first:
+      4: 400058
+    second: ManPelvis
+  - first:
+      4: 400060
+    second: ManRArmDigit11
+  - first:
+      4: 400062
+    second: ManRArmDigit12
+  - first:
+      4: 400064
+    second: ManRArmDigit13
+  - first:
+      4: 400066
+    second: ManRArmDigit21
+  - first:
+      4: 400068
+    second: ManRArmDigit22
+  - first:
+      4: 400070
+    second: ManRArmDigit23
+  - first:
+      4: 400072
+    second: ManRArmDigit31
+  - first:
+      4: 400074
+    second: ManRArmDigit32
+  - first:
+      4: 400076
+    second: ManRArmDigit33
+  - first:
+      4: 400078
+    second: ManRArmDigit41
+  - first:
+      4: 400080
+    second: ManRArmDigit42
+  - first:
+      4: 400082
+    second: ManRArmDigit43
+  - first:
+      4: 400084
+    second: ManRArmDigit51
+  - first:
+      4: 400086
+    second: ManRArmDigit52
+  - first:
+      4: 400088
+    second: ManRArmDigit53
+  - first:
+      4: 400090
+    second: ManRCalf
+  - first:
+      4: 400092
+    second: ManRCollarbone
+  - first:
+      4: 400094
+    second: ManRFoot
+  - first:
+      4: 400096
+    second: ManRForearm
+  - first:
+      4: 400098
+    second: ManRibcage
+  - first:
+      4: 400100
+    second: ManRLegDigit11
+  - first:
+      4: 400102
+    second: ManRLegDigit12
+  - first:
+      4: 400104
+    second: ManRPalm
+  - first:
+      4: 400106
+    second: ManRThigh
+  - first:
+      4: 400108
+    second: ManRUpperarm
+  - first:
+      4: 400110
+    second: ManSpine1
+  - first:
+      4: 400112
+    second: ManSpine2
+  - first:
+      4: 400114
+    second: ManSpine3
+  - first:
+      4: 400116
+    second: ManSpine4
+  - first:
+      4: 400118
+    second: ManSpine5
+  - first:
+      4: 400120
+    second: ManTransform
+  - first:
+      21: 2100000
+    second: Man_Universal01_Biker01
+  - first:
+      43: 4300000
+    second: Man_Universal_01
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Man_Universal_01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Man_Universal01_Biker01
+    second: {fileID: 2100000, guid: 13089935319582d4eb81e0d21a62ce62, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 81714008d3b4fe742bcc837dd0c8f8f5
+  - cd6446468ae35f145b2015beefaa326f
+  - eda4b19e7edc8294280baa957f79ade9
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Man_Universal_01(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Man_Universal_01
+      parentName: Man_Universal_01(Clone)
+      position: {x: -0, y: 0.033985, z: -0.0055883215}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManTransform
+      parentName: Man_Universal_01(Clone)
+      position: {x: -0, y: 0, z: -0.034144286}
+      rotation: {x: 0.50000006, y: -0.5, z: -0.4999999, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManPelvis
+      parentName: ManTransform
+      position: {x: -0.98553866, y: 0.043024663, z: -0.000000008105589}
+      rotation: {x: 2.162214e-21, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManLThigh
+      parentName: ManPelvis
+      position: {x: -0.0055367276, y: -0.0052156327, z: 0.08745003}
+      rotation: {x: -0.027524594, y: 0.9995766, z: 0.0051440382, w: -0.00790882}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManLCalf
+      parentName: ManLThigh
+      position: {x: -0.43937045, y: 0.0000015354157, z: 0.0000045633315}
+      rotation: {x: 0.01248028, y: -0.0113452645, z: 0.061950926, w: 0.9979367}
+      scale: {x: 1.000001, y: 0.999999, z: 1}
+    - name: ManLFoot
+      parentName: ManLCalf
+      position: {x: -0.5257579, y: -0.0000000023841857, z: 0}
+      rotation: {x: -0.0007786951, y: -0.002441202, z: -0.72996527, w: 0.6834795}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManLLegDigit11
+      parentName: ManLFoot
+      position: {x: -0.14611979, y: 0, z: 0}
+      rotation: {x: -0.004476918, y: -0.0053943684, z: -0.0015326955, w: 0.99997425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManLLegDigit12
+      parentName: ManLLegDigit11
+      position: {x: -0.04776846, y: 0, z: 0}
+      rotation: {x: 0, y: -1.926751e-15, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManSpine1
+      parentName: ManPelvis
+      position: {x: -0.0038198852, y: -0.0000004816055, z: -2.842171e-16}
+      rotation: {x: 2.2906696e-10, y: -0.00000001641578, z: -0.095097154, w: 0.995468}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManSpine2
+      parentName: ManSpine1
+      position: {x: -0.09757774, y: 0, z: 0}
+      rotation: {x: 4.4497545e-10, y: 0.000000010108776, z: 0.08526784, w: 0.9963581}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManSpine3
+      parentName: ManSpine2
+      position: {x: -0.099113844, y: 0, z: -1.1368684e-15}
+      rotation: {x: 1.2344062e-10, y: 0.000000006844057, z: 0.047225796, w: 0.99888426}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManSpine4
+      parentName: ManSpine3
+      position: {x: -0.09840523, y: 0, z: -5.684342e-16}
+      rotation: {x: -1.262162e-10, y: 0.0000000036888075, z: 0.023529552, w: 0.99972314}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManSpine5
+      parentName: ManSpine4
+      position: {x: -0.098341905, y: 0, z: 0}
+      rotation: {x: 4.2181422e-10, y: 0.0000000138603236, z: 0.07249759, w: 0.99736863}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManRibcage
+      parentName: ManSpine5
+      position: {x: -0.10280624, y: 0.000000038146972, z: 4.5474734e-15}
+      rotation: {x: 2.4974486e-10, y: -0.000000018020913, z: -0.13307087, w: 0.9911065}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManLCollarbone
+      parentName: ManRibcage
+      position: {x: -0.054887388, y: 0.000096584554, z: 0.04389527}
+      rotation: {x: 0.053665318, y: 0.76492447, z: 0.041372996, w: 0.6405458}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManLUpperarm
+      parentName: ManLCollarbone
+      position: {x: -0.14098872, y: -0.00000006198883, z: 0.00000015258789}
+      rotation: {x: 0.032501437, y: -0.08138322, z: -0.0691487, w: 0.9937499}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManLForearm
+      parentName: ManLUpperarm
+      position: {x: -0.2419363, y: 0.0000002479553, z: 0.00000045776366}
+      rotation: {x: -0.08423387, y: -0.0067773503, z: -0.014647051, w: 0.9963153}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManLPalm
+      parentName: ManLForearm
+      position: {x: -0.26121083, y: -0.00000036239624, z: -0.0000010681152}
+      rotation: {x: -0.69597614, y: -0.013930672, z: -0.03812819, w: 0.71691656}
+      scale: {x: 1.000001, y: 0.999999, z: 1.000001}
+    - name: ManLArmDigit21
+      parentName: ManLPalm
+      position: {x: -0.089617305, y: 0.006096649, z: 0.03263114}
+      rotation: {x: 0.11908938, y: 0.36887914, z: -0.056255393, w: 0.92009854}
+      scale: {x: 1.000001, y: 0.999996, z: 1.000004}
+    - name: ManLArmDigit22
+      parentName: ManLArmDigit21
+      position: {x: -0.03694252, y: 0, z: 0}
+      rotation: {x: -0.008744566, y: -0.019275691, z: 0.034091435, w: 0.9991946}
+      scale: {x: 1, y: 0.999997, z: 1.000004}
+    - name: ManLArmDigit23
+      parentName: ManLArmDigit22
+      position: {x: -0.030204086, y: 0, z: 0}
+      rotation: {x: 0.01641218, y: -0.0012364684, z: 0.06257716, w: 0.9979044}
+      scale: {x: 0.999999, y: 0.999998, z: 1.000004}
+    - name: ManLArmDigit31
+      parentName: ManLPalm
+      position: {x: -0.09482445, y: 0.0084446715, z: 0.011076898}
+      rotation: {x: -0.001795083, y: 0.007888139, z: 0.020276755, w: 0.9997617}
+      scale: {x: 1, y: 0.999999, z: 1.000001}
+    - name: ManLArmDigit32
+      parentName: ManLArmDigit31
+      position: {x: -0.036433637, y: 0, z: 0.000000023841856}
+      rotation: {x: -0.00082439266, y: 0.0015056857, z: 0.039660368, w: 0.9992118}
+      scale: {x: 0.999999, y: 1.000001, z: 1.000001}
+    - name: ManLArmDigit33
+      parentName: ManLArmDigit32
+      position: {x: -0.029213753, y: 0.00000015258789, z: 0.000000047683713}
+      rotation: {x: 0.03349569, y: -0.016133903, z: 0.020091956, w: 0.99910665}
+      scale: {x: 0.999999, y: 1, z: 1.000002}
+    - name: ManLArmDigit41
+      parentName: ManLPalm
+      position: {x: -0.09395981, y: 0.0068794247, z: -0.011388091}
+      rotation: {x: 0.00977376, y: -0.006606591, z: 0.006279597, w: 0.9999108}
+      scale: {x: 1.000001, y: 0.999999, z: 1.000001}
+    - name: ManLArmDigit42
+      parentName: ManLArmDigit41
+      position: {x: -0.03317413, y: 0, z: 0.0000000047683715}
+      rotation: {x: -0.058232937, y: 0.0015594385, z: 0.037185974, w: 0.99760896}
+      scale: {x: 0.999999, y: 1.000002, z: 1}
+    - name: ManLArmDigit43
+      parentName: ManLArmDigit42
+      position: {x: -0.029046325, y: 0.00000015258789, z: 0.000000076293944}
+      rotation: {x: 0.012321494, y: -0.007276006, z: -0.01186502, w: 0.9998272}
+      scale: {x: 0.999999, y: 1.000001, z: 1}
+    - name: ManLArmDigit51
+      parentName: ManLPalm
+      position: {x: -0.09398506, y: 0.002357788, z: -0.032127447}
+      rotation: {x: -0.09350312, y: -0.0072191292, z: -0.0019054378, w: 0.995591}
+      scale: {x: 1, y: 1.000002, z: 0.999999}
+    - name: ManLArmDigit52
+      parentName: ManLArmDigit51
+      position: {x: -0.025771713, y: 0.00000015258789, z: 0.000000038146972}
+      rotation: {x: -0.008588001, y: 0.03071587, z: 0.024732992, w: 0.9991852}
+      scale: {x: 1, y: 1.000003, z: 0.999999}
+    - name: ManLArmDigit53
+      parentName: ManLArmDigit52
+      position: {x: -0.021853866, y: 0, z: 0.000000038146972}
+      rotation: {x: 0.028368806, y: 0.011068368, z: 0.03641491, w: 0.9988727}
+      scale: {x: 0.999999, y: 1.000002, z: 0.999999}
+    - name: ManLArmDigit11
+      parentName: ManLPalm
+      position: {x: -0.03508499, y: -0.017782288, z: 0.026629934}
+      rotation: {x: 0.58247507, y: 0.07070529, z: -0.05910916, w: 0.8076074}
+      scale: {x: 1.000005, y: 0.999994, z: 1.000002}
+    - name: ManLArmDigit12
+      parentName: ManLArmDigit11
+      position: {x: -0.014512787, y: 0.00000015258789, z: 0}
+      rotation: {x: -0.102398105, y: -0.029140577, z: 0.009717178, w: 0.9942692}
+      scale: {x: 1.000002, y: 0.999995, z: 1.000004}
+    - name: ManLArmDigit13
+      parentName: ManLArmDigit12
+      position: {x: -0.037045058, y: 0.00000015258789, z: 0.00000030517577}
+      rotation: {x: 0.07670687, y: -0.120884106, z: 0.09978306, w: 0.9846555}
+      scale: {x: 0.999997, y: 0.999998, z: 1.000005}
+    - name: ManNeck1
+      parentName: ManRibcage
+      position: {x: -0.06491134, y: 0.005697348, z: 0}
+      rotation: {x: 0.0000000068662294, y: -0.000000079981106, z: -0.13732961, w: 0.9905254}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManNeck2
+      parentName: ManNeck1
+      position: {x: -0.07622421, y: 0.000000038146972, z: 0}
+      rotation: {x: -0.0000000029094085, y: 0.000000015780362, z: 0.10726933, w: 0.99423}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManHead
+      parentName: ManNeck2
+      position: {x: -0.09958404, y: -0.000000009536743, z: 0}
+      rotation: {x: -0.0000000020258522, y: 0.00000006424122, z: -0.039628305, w: 0.99921453}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManRCollarbone
+      parentName: ManRibcage
+      position: {x: -0.054887388, y: 0.00009658337, z: -0.043895263}
+      rotation: {x: -0.053665318, y: -0.76492447, z: 0.041372996, w: 0.6405458}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManRUpperarm
+      parentName: ManRCollarbone
+      position: {x: -0.14098872, y: -0.00000006198883, z: -0.00000015258789}
+      rotation: {x: -0.032501444, y: 0.08138314, z: -0.069148704, w: 0.9937499}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManRForearm
+      parentName: ManRUpperarm
+      position: {x: -0.24193634, y: 0.00000023841858, z: -0.00000045776366}
+      rotation: {x: 0.08423386, y: 0.0067773466, z: -0.014647054, w: 0.9963153}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManRPalm
+      parentName: ManRForearm
+      position: {x: -0.2612107, y: -0.0000003528595, z: 0.0000010681152}
+      rotation: {x: 0.69597614, y: 0.013930672, z: -0.03812819, w: 0.7169166}
+      scale: {x: 1.000001, y: 0.999999, z: 1.000001}
+    - name: ManRArmDigit21
+      parentName: ManRPalm
+      position: {x: -0.08961739, y: 0.0060968017, z: -0.032631125}
+      rotation: {x: -0.11909227, y: -0.36887932, z: -0.0562538, w: 0.9200982}
+      scale: {x: 1.000001, y: 0.999996, z: 1.000004}
+    - name: ManRArmDigit22
+      parentName: ManRArmDigit21
+      position: {x: -0.036942746, y: 0, z: 0.000000038146972}
+      rotation: {x: 0.008744568, y: 0.019275904, z: 0.034087285, w: 0.99919474}
+      scale: {x: 1, y: 0.999997, z: 1.000003}
+    - name: ManRArmDigit23
+      parentName: ManRArmDigit22
+      position: {x: -0.030204086, y: 0, z: 0}
+      rotation: {x: -0.016412059, y: 0.0012364384, z: 0.06257654, w: 0.9979045}
+      scale: {x: 0.999999, y: 0.999998, z: 1.000004}
+    - name: ManRArmDigit31
+      parentName: ManRPalm
+      position: {x: -0.09482445, y: 0.008444824, z: -0.011076894}
+      rotation: {x: 0.0017950828, y: -0.007888689, z: 0.020276317, w: 0.99976176}
+      scale: {x: 1, y: 0.999999, z: 1.000001}
+    - name: ManRArmDigit32
+      parentName: ManRArmDigit31
+      position: {x: -0.036433637, y: 0.00000015258789, z: -0.000000019073486}
+      rotation: {x: 0.00082440354, y: -0.0015056238, z: 0.03965882, w: 0.99921185}
+      scale: {x: 0.999999, y: 1.000001, z: 1.000001}
+    - name: ManRArmDigit33
+      parentName: ManRArmDigit32
+      position: {x: -0.029213829, y: 0.00000015258789, z: -0.000000042915342}
+      rotation: {x: -0.033495665, y: 0.016133895, z: 0.020091983, w: 0.99910665}
+      scale: {x: 0.999999, y: 1, z: 1.000002}
+    - name: ManRArmDigit41
+      parentName: ManRPalm
+      position: {x: -0.09395981, y: 0.0068795774, z: 0.011388087}
+      rotation: {x: -0.00977385, y: 0.006606277, z: 0.0062788725, w: 0.9999108}
+      scale: {x: 1, y: 0.999999, z: 1.000001}
+    - name: ManRArmDigit42
+      parentName: ManRArmDigit41
+      position: {x: -0.033174057, y: 0, z: -0.000000009536743}
+      rotation: {x: 0.05823307, y: -0.0015598461, z: 0.037192192, w: 0.9976087}
+      scale: {x: 0.999999, y: 1.000002, z: 1}
+    - name: ManRArmDigit43
+      parentName: ManRArmDigit42
+      position: {x: -0.029046362, y: 0.00000030517577, z: -0.000000076293944}
+      rotation: {x: -0.012321465, y: 0.007275999, z: -0.011865001, w: 0.9998272}
+      scale: {x: 0.999999, y: 1.000001, z: 1}
+    - name: ManRArmDigit51
+      parentName: ManRPalm
+      position: {x: -0.093984984, y: 0.0023579407, z: 0.03212744}
+      rotation: {x: 0.093503214, y: 0.0072188666, z: -0.0019067195, w: 0.99559104}
+      scale: {x: 1, y: 1.000001, z: 0.999999}
+    - name: ManRArmDigit52
+      parentName: ManRArmDigit51
+      position: {x: -0.025771637, y: 0, z: 0}
+      rotation: {x: 0.008588058, y: -0.03071835, z: 0.024739055, w: 0.999185}
+      scale: {x: 0.999999, y: 1.000002, z: 0.999999}
+    - name: ManRArmDigit53
+      parentName: ManRArmDigit52
+      position: {x: -0.021853866, y: 0.00000015258789, z: -0.000000038146972}
+      rotation: {x: -0.028368779, y: -0.011068385, z: 0.036414925, w: 0.9988727}
+      scale: {x: 0.999999, y: 1.000002, z: 0.999999}
+    - name: ManRArmDigit11
+      parentName: ManRPalm
+      position: {x: -0.035084914, y: -0.017782288, z: -0.026629925}
+      rotation: {x: -0.5824741, y: -0.07070053, z: -0.059112, w: 0.80760825}
+      scale: {x: 1.000005, y: 0.999994, z: 1.000001}
+    - name: ManRArmDigit12
+      parentName: ManRArmDigit11
+      position: {x: -0.014512787, y: 0.000000114440915, z: 0}
+      rotation: {x: 0.10239736, y: 0.02914396, z: 0.009721268, w: 0.9942691}
+      scale: {x: 1.000002, y: 0.999994, z: 1.000004}
+    - name: ManRArmDigit13
+      parentName: ManRArmDigit12
+      position: {x: -0.037045136, y: 0.0000002670288, z: -0.00000015258789}
+      rotation: {x: -0.07670686, y: 0.12088402, z: 0.099783026, w: 0.9846555}
+      scale: {x: 0.999997, y: 0.999998, z: 1.000005}
+    - name: ManRThigh
+      parentName: ManPelvis
+      position: {x: -0.0055367276, y: -0.0052156327, z: -0.08745003}
+      rotation: {x: -0.027525749, y: 0.9995766, z: -0.005143851, w: 0.007903863}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManRCalf
+      parentName: ManRThigh
+      position: {x: -0.43937045, y: 0.0000015354157, z: -0.0000045633315}
+      rotation: {x: -0.0124814985, y: 0.01128894, z: 0.061997086, w: 0.99793446}
+      scale: {x: 1.000001, y: 0.999999, z: 1}
+    - name: ManRFoot
+      parentName: ManRCalf
+      position: {x: -0.52575797, y: 0.0000000023841857, z: -0.000000009536743}
+      rotation: {x: 0.00086934655, y: 0.0025969439, z: -0.72997946, w: 0.68346363}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManRLegDigit11
+      parentName: ManRFoot
+      position: {x: -0.14611979, y: 0.00000010967254, z: -0.000000019073486}
+      rotation: {x: 0.004477369, y: 0.0052231834, z: -0.0015557756, w: 0.99997514}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ManRLegDigit12
+      parentName: ManRLegDigit11
+      position: {x: -0.04776843, y: 0, z: 0}
+      rotation: {x: -2.7380778e-29, y: -1.926751e-15, z: -1.4210855e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
